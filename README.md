@@ -38,7 +38,7 @@ A network security project developed in Cisco Packet Tracer to practice Access C
 ## Testing
 Connectivity and ACL rules are verified using ping, HTTP testing, and Cisco IOS commands such as `show access-lists`.
 
-## ACL Implementation and Testing
+### ACL Implementation and Testing
 
 ### . Extended ACL
 Initially, an Extended Access Control List (ACL) was configured to filter network traffic based on source IP address, destination IP address, and protocol. It was used to block ICMP traffic between the HR and Students departments and restrict Students' access to the server.
